@@ -2,7 +2,7 @@
 
 ## Description
 
-GitRank is an innovative tool designed to provide insights into the world of open-source machine learning. It dynamically generates an interactive chart that ranks the most-starred machine learning projects on GitHub that are written in Python or R. The project was born out of a passion for understanding the evolving landscape of machine learning technologies and a desire to spotlight the community's most valued contributions. Aimed at developers, data scientists, and machine learning enthusiasts, GitRank offers a unique interface to explore and interact with the data, making it easy to spot trends and popular projects. Currently in its first major release, GitRank invites users to delve into the data, provide feedback, and contribute to future enhancements.
+GitRank is an innovative tool designed to provide insights into the world of open-source machine learning. It dynamically generates an interactive chart that ranks the most-starred machine learning projects on GitHub that are written in Python or R.
 
 ## Features
 
